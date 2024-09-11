@@ -29,7 +29,6 @@ jobs:
         else
           echo "status=pass" >> $GITHUB_ENV
         fi
-      continue-on-error: true
       
     - name: Set up Mutex
       uses: ben-z/gh-action-mutex@v1.0.0-alpha.9
@@ -44,7 +43,6 @@ jobs:
         git commit --allow-empty -m "Update autopep8 report"
         git pull --rebase
         git push
-      continue-on-error: true
     
     - name: Create Awesome Badge
       uses: schneegans/dynamic-badges-action@v1.7.0
