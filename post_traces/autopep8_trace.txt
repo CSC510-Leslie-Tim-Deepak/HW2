@@ -1,12 +1,16 @@
 --- original/hw2_rsc/test_unsortedarray.py
 +++ fixed/hw2_rsc/test_unsortedarray.py
-@@ -18,4 +18,4 @@
+@@ -4,8 +4,9 @@
  
+ from hw2_debugging import merge_sort
  
- if __name__ == '__main__':
--    unittest.main()
-\ No newline at end of file
-+    unittest.main()
++
+ def test_merge_sort():
+     """
+     Test cases for merge_sort function with a un-sorted array as input.
+     """
+-    assert(merge_sort([5, 4, 3, 2, 1]) == [1, 2, 3, 4, 5])
++    assert (merge_sort([5, 4, 3, 2, 1]) == [1, 2, 3, 4, 5])
 --- original/hw2_rsc/test_reversedarray.py
 +++ fixed/hw2_rsc/test_reversedarray.py
 @@ -4,8 +4,9 @@
