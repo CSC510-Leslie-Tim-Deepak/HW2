@@ -3,7 +3,7 @@ This module contains unit tests for the merge_sort function with a reversed arra
 """
 import unittest
 
-from ..hw2_rsc.hw2_debugging import merge_sort
+from hw2_debugging import merge_sort
 
 class TestMergeSort(unittest.TestCase):
     """
