@@ -1,6 +1,8 @@
 name: Pylint
 
 on: [push, pull_request]
+permissions:
+  contents: write  # Grants write access to the contents of the repository
 jobs:
   lint:
     runs-on: ubuntu-latest
