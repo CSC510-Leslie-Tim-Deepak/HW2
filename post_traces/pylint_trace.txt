@@ -1,6 +1,4 @@
-************* Module test_reversedarray
-hw2_rsc/test_reversedarray.py:7:0: C0103: Function name "TestMergeSort" doesn't conform to snake_case naming style (invalid-name)
 
------------------------------------
-Your code has been rated at 9.72/10
+------------------------------------
+Your code has been rated at 10.00/10
 
