@@ -3,7 +3,7 @@ name: Python application
 on: [push, pull_request]
 
 permissions:
-  contents: read
+  contents: write  # Grants write access to the contents of the repository
 
 jobs:
   lint-and-test:
