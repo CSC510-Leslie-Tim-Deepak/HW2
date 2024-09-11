@@ -2,8 +2,11 @@
 This module contains unit tests for the merge_sort function with a reversed array.
 """
 import unittest
+import sys
+import os
+# Add the directory containing the file to the system path
+sys.path.append(os.path.abspath("hw2_rsc/hw2_debugging.py"))
 from hw2_debugging import merge_sort
-
 
 class TestMergeSort(unittest.TestCase):
     """
