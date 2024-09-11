@@ -1,2 +1,4 @@
-************* Module ./hw2_rsc/*.py
-./hw2_rsc/*.py:1:0: F0001: No module named ./hw2_rsc/*.py (fatal)
+
+------------------------------------
+Your code has been rated at 10.00/10
+
