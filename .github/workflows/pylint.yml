@@ -39,7 +39,6 @@ jobs:
           git commit --allow-empty -m "Update pylint report"
           git pull --rebase
           git push
-        continue-on-error: true
         
       - name: Create Awesome Badge
         uses: schneegans/dynamic-badges-action@v1.7.0
