@@ -1,7 +1,8 @@
 name: Autopep8 Check
 
 on: [push, pull_request]
-
+permissions:
+  contents: write  # Grants write access to the contents of the repository
 jobs:
   Autopep8:
     runs-on: ubuntu-latest
