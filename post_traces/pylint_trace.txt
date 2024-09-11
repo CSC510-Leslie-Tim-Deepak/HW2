@@ -1,4 +1,6 @@
+************* Module test_reversedarray
+hw2_rsc/test_reversedarray.py:7:0: R0903: Too few public methods (0/2) (too-few-public-methods)
 
-------------------------------------
-Your code has been rated at 10.00/10
+-----------------------------------
+Your code has been rated at 9.72/10
 
