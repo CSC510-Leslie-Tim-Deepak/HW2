@@ -3,6 +3,7 @@ This module provides functionality for generating random arrays using subprocess
 """
 import subprocess
 
+
 def random_array(arr):
     '''
     Generates an array of random numbers
