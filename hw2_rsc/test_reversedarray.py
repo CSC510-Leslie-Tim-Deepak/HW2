@@ -4,7 +4,7 @@ This module contains unit tests for the merge_sort function with a reversed arra
 
 from hw2_debugging import merge_sort
 
-class TestMergeSort():
+def TestMergeSort():
     """
     Test cases for merge_sort function with a reverse-sorted array as input.
     """
