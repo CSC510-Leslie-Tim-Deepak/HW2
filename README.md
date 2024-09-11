@@ -8,7 +8,7 @@
 
 ## Homework 2 Badges
 ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Captain-Tim/cbc5a0932cfa7cc46e32324d7e3a846f/raw/pylint.json)
-![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/LiuKang-11/d4ba9dd4be23a0e47644e1126cb573ec/raw/489f0038cf42acd75c6163895f271abe517b343a/autopep8.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/LiuKang-11/d4ba9dd4be23a0e47644e1126cb573ec/raw/autopep8.json)
 
 
 ### Homework Group
