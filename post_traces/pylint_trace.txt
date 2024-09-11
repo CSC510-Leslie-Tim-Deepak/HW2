@@ -1,4 +1,6 @@
+************* Module test_reversedarray
+hw2_rsc/test_reversedarray.py:21:0: C0304: Final newline missing (missing-final-newline)
 
-------------------------------------
-Your code has been rated at 10.00/10
+-----------------------------------
+Your code has been rated at 9.75/10
 
