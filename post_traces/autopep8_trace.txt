@@ -1,0 +1,4 @@
+--- original/hw2_rsc/test_sortedarray.py
++++ fixed/hw2_rsc/test_sortedarray.py
+@@ -1 +0,0 @@
+-
