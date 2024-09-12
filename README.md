@@ -9,7 +9,7 @@
 ## Homework 2 Badges
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Captain-Tim/cbc5a0932cfa7cc46e32324d7e3a846f/raw/pylint.json)](https://github.com/CSC510-Leslie-Tim-Deepak/HW1/actions/workflows/pylint.yml)
 [![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/LiuKang-11/d4ba9dd4be23a0e47644e1126cb573ec/raw/autopep8.json)](https://github.com/CSC510-Leslie-Tim-Deepak/HW1/actions/workflows/autopep8_check.yml)
-![badge](https://img.shields.io/endpoint?url=)
+![badge](https://img.shields.io/endpoint?url=https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/deepaksaipendyala/880d391d0684ac7c943865882d677a7d/raw/pyflake.json)
 
 
 ### Homework Group
